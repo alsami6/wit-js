@@ -44,3 +44,5 @@ const train = 150;
 const time = 3;
 
 console.log(`The train passes on the hour ${train/time}`);
+
+console.log("yeah");
